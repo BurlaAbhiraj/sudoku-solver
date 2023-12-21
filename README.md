@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-This is a simple web-based Sudoku solver application that allows users to input a Sudoku board and solve it with a single click. The interface is designed to be user-friendly, enabling a seamless experience for Sudoku enthusiasts.
+This is a simple web-based Sudoku solver application that allows users to input a Sudoku board and solve it with a single click. The interface is designed to be user-friendly, enabling a seamless experience for Sudoku enthusiasts. I used backtracking algorithm to solve the board.
 
 ## Features
 
@@ -29,4 +29,6 @@ This is a simple web-based Sudoku solver application that allows users to input 
 
 - `sudoku.js`: Contains the Sudoku solving logic.
 - `index.html`: Contains the basic html elements for sudoku
+
+**<p align='center'>You can find the website live <a href="https://burlaabhiraj.github.io/sudoku-solver/">here</a></p>**
 
